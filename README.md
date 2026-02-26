@@ -10,8 +10,8 @@
 
 ## Youtube Video Demonstration
 
-Link:
+Link: https://youtu.be/6Pe1NNiBzDk
 
 ## Presentation Slides
 
-Link:
+Link: https://docs.google.com/presentation/d/1uZIlbULIkZ3tDeR2LrkUn27ydpYCWqadoXff6zJGnKY/edit?usp=sharing
